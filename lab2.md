@@ -19,7 +19,8 @@ Horizontal Rule:
 `Inline code` with backticks
 
 ...
-# code block
+
+code block
 print 'same'
 print 'YMD'
 ...
