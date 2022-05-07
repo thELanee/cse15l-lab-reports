@@ -33,6 +33,8 @@ Logging into ieng6 account and compiling and running tests for repository
 ![image](https://user-images.githubusercontent.com/92767729/167245286-5926ea0a-b27c-47a4-a0db-a4940d17c9ce.png)  
   
 Combining scp, ;, and ssh to copy whole directory and run tests at same time.  
+![image](https://user-images.githubusercontent.com/92767729/167245623-3411cfa2-2e11-4de2-a473-907cb508f6d7.png)  
+
 
 
 
