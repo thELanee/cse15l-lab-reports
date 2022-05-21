@@ -27,6 +27,17 @@
 ### Snippet 3 (My implementation)  
 ![image](https://user-images.githubusercontent.com/92767729/169671831-a07280e7-3813-4a3f-b181-3ada446ce38e.png)  
 
+## Explanation  
+
+### Snippet 1  
+There is a small change that will allow my code to work for snippet 1 and all related cases with backticks. I just have to make it so that my program checks for if there are backticks enclosing the first or last bracket, so it would probably utilize a counter that keeps track of backticks, and if it finds a backtick before and after the first open bracket or last close bracket, updates the index to the next close parentheses. To do this, I also need to add a few lines of code that will help me find the last close bracket so that links like `'google.com` will register.
+
+### Snippet 2  
+There is also a small change here that will allow my code to work for snippet 2 and all related cases with nested parentheses and brackets. I would just need to implement a helper method or have code within the loop that looks for the last closed bracket in the link before the open parentheses and the last open bracket in the link. So it would probably need to look for a "](" string to find the last valid close bracket then whenever it finds a closing parenthesis, checks if there are more open parenthesis further down to look for the last one.  
+
+### Snippet 3  
+This change would be more involved because I would have to find a way to ignore newlines and spaces in the brackets and parentheses. I could probably increment the index to the next open parentheses if I detect a newline in the bracket and use indexes to cut out the newlines and whitespace in the parentheses when creating the link substring, with a condition that if there is a newline character before the next close parentheses to update the index to the next close parentheses instead of adding the link.
+
 
 
 
