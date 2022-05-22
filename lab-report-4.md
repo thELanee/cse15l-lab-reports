@@ -27,7 +27,7 @@
 
 ### Snippet 2 
 (My implementation)  
-![image](https://user-images.githubusercontent.com/92767729/169671806-cc439ce2-54d1-453e-b475-6f108c436483.png) 
+![image](https://user-images.githubusercontent.com/92767729/169678933-88026bb2-09c5-43f9-87c0-74afd941e55b.png)  
 (Other Implementation)  
 ![image](https://user-images.githubusercontent.com/92767729/169678842-873b6da6-af1d-4417-b8ac-a64a64aff721.png)  
 
