@@ -1,5 +1,6 @@
 # Lab Report 4  
 [link to my markdown-parse](https://github.com/thELanee/markdown-parser)  
+[link to other group's repo](https://github.com/richmass1/markdown-parser)  
 
 ## Expected Output  
 
@@ -18,14 +19,23 @@
 ## Turning it into a test 
 ![image](https://user-images.githubusercontent.com/92767729/169671728-167e7a26-6d11-49ec-b862-70472051ceed.png)  
   
-### Snippet 1 (My implementation)  
+### Snippet 1 
+(My implementation)  
 ![image](https://user-images.githubusercontent.com/92767729/169671793-09cf721e-fd82-4349-9c32-4db3c39b63e6.png)  
+(Other implementation)  
+![image](https://user-images.githubusercontent.com/92767729/169678818-49af7387-0082-4d0d-a7e4-d55269f39e7a.png)  
 
-### Snippet 2 (My implementation)  
-![image](https://user-images.githubusercontent.com/92767729/169671806-cc439ce2-54d1-453e-b475-6f108c436483.png)  
+### Snippet 2 
+(My implementation)  
+![image](https://user-images.githubusercontent.com/92767729/169671806-cc439ce2-54d1-453e-b475-6f108c436483.png) 
+(Other Implementation)  
+![image](https://user-images.githubusercontent.com/92767729/169678842-873b6da6-af1d-4417-b8ac-a64a64aff721.png)  
 
-### Snippet 3 (My implementation)  
-![image](https://user-images.githubusercontent.com/92767729/169671831-a07280e7-3813-4a3f-b181-3ada446ce38e.png)  
+### Snippet 3 
+(My implementation)  
+![image](https://user-images.githubusercontent.com/92767729/169671831-a07280e7-3813-4a3f-b181-3ada446ce38e.png)
+(Other implementation)  
+![image](https://user-images.githubusercontent.com/92767729/169678867-59e1cae0-13d2-46f4-b976-a164115c0b94.png)  
 
 ## Explanation  
 
